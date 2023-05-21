@@ -1,7 +1,7 @@
 # Step-i-Internship-Program
 Start developing in-demand skills and learn to drive better business decisions by leveraging the power of data.
 
-This repository contains Task 2 problem statemnet submission:
+This repository contains Task 2 problem statement submissions:
 
 Problem Statement 1: MS Excel
 we were provided with a dataset in MS Excel. We were supposed to analyze the data and create pivot tables and dashboards.
