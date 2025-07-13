@@ -1,64 +1,76 @@
-# 📊 Step-i Internship Program – Task 2 Submissions
+📊 Step-i Internship Program – Task 2 Submissions
+Welcome to the repository showcasing my work for Task 2 of the Step-i Internship Program. This task focused on developing core data analysis skills using MS Excel and SQL to solve practical financial and sports analytics problems.
 
-Welcome to the repository showcasing my work for **Task 2** of the **Step-i Internship Program**. The focus of this task was to develop core **data analysis** skills using **MS Excel** and **SQL** to solve real-world business and sports analytics problems.
+🎯 Objective
+The objective was to build in-demand analytical competencies and showcase the ability to extract meaningful insights using tools widely adopted in the industry.
 
----
+📂 Contents
+🟩 Problem Statement 1: Excel-Based Financial Analysis
+We were provided with a financial dataset in Excel format. The goal was to analyze, visualize, and summarize key metrics.
 
-## 🎯 Objective
+Key Deliverables:
 
-The goal of this task was to build in-demand analytical skills and demonstrate the ability to derive actionable insights using industry-standard tools such as **Excel** and **SQL**.
+TASK 2 P1_1.xlsx: Contains pivot tables for multidimensional financial insights.
 
----
+Task 2 P1_2.xlsx: An Excel dashboard summarizing KPIs and trends.
 
-## 📂 Contents
+Tasks Completed:
 
-### 🟩 Problem Statement 1: Excel-Based Financial Analysis
+Cleaned and structured raw data
 
-We were provided with a dataset in **MS Excel** format. The task required us to:
-- Analyze the raw data
-- Build meaningful **pivot tables**
-- Create insightful **financial dashboards**
+Created interactive pivot tables
 
-**Submissions:**
-- `P1_PivotTables.xlsx`: Contains pivot table views for multidimensional data analysis
-- `P2_Dashboard.xlsx`: Financial dashboard summarizing KPIs and trends
+Designed a visually engaging dashboard for quick business insights
 
----
+🏏 Problem Statement 2: SQL-Based IPL Sports Analytics
+We worked on two IPL-related datasets:
 
-### 🏏 Problem Statement 2: SQL-Based IPL Sports Analytics
+IPL_matches.csv: Match-level information
 
-In this task, we stepped into the shoes of a **sports analyst** and worked on two datasets related to the **IPL (Indian Premier League)**:
-- `matches.csv` – Match-level data
-- `deliveries.csv` – Ball-by-ball delivery data
+IPL_Ball.csv: Ball-by-ball delivery data
 
-**Tasks Included:**
-- Importing both datasets into an SQL environment
-- Writing complex SQL queries to:
-  - Analyze player performance
-  - Identify winning patterns
-  - Extract match insights
-  - Compare team statistics
+Key Activities:
 
-**Skills Demonstrated:**
-- SQL Joins, Aggregations, Grouping
-- Data Cleaning & Query Optimization
-- Insightful reporting with SQL
+Imported datasets into a relational SQL schema (matches and deliveries tables)
 
----
+Performed data cleaning and integrity checks
 
-## 🧠 Skills Gained
+Wrote and executed SQL queries to extract insights on:
 
-- Data Cleaning and Manipulation  
-- Pivot Table & Dashboard Design (MS Excel)  
-- SQL Query Writing & Optimization  
-- Sports Analytics (IPL Dataset)  
-- Business Intelligence & Visualization  
+Player and team performance
 
----
+Match outcomes and patterns
 
-## 📜 Tools Used
+City and venue statistics
 
-- Microsoft Excel  
-- MySQL 
-- SQL IDE (MySQL Workbench)
+Sample SQL Tasks:
 
+Match results with large victory margins
+
+Tied matches and chronological analysis
+
+Count of unique host cities
+
+Joins across matches and deliveries for performance metrics
+
+You can find query snapshots and schema structure in Task 2 SQL.pdf.
+
+🧠 Skills Gained
+Data Cleaning and Preprocessing
+
+Pivot Table & Dashboard Design (Excel)
+
+SQL Query Writing & Optimization
+
+Sports Analytics (IPL Dataset)
+
+Business Intelligence & Visualization
+
+🛠️ Tools Used
+Microsoft Excel
+
+MySQL (Workbench)
+
+SQL (DDL, DML, Joins, Aggregates, Filters)
+
+Feel free to explore the datasets, queries, and dashboards in this repository to understand how analytical thinking can be applied to real-world business and sports scenarios.
