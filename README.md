@@ -1,76 +1,93 @@
-📊 Step-i Internship Program – Task 2 Submissions
-Welcome to the repository showcasing my work for Task 2 of the Step-i Internship Program. This task focused on developing core data analysis skills using MS Excel and SQL to solve practical financial and sports analytics problems.
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Step-i Internship Task 2</title>
+</head>
+<body>
 
-🎯 Objective
-The objective was to build in-demand analytical competencies and showcase the ability to extract meaningful insights using tools widely adopted in the industry.
+  <h1>📊 Step-i Internship Program – Task 2 Submissions</h1>
 
-📂 Contents
-🟩 Problem Statement 1: Excel-Based Financial Analysis
-We were provided with a financial dataset in Excel format. The goal was to analyze, visualize, and summarize key metrics.
+  <p>Welcome to the repository showcasing my work for <strong>Task 2</strong> of the <strong>Step-i Internship Program</strong>. This task focused on developing core <strong>data analysis skills using MS Excel and SQL</strong> to solve practical financial and sports analytics problems.</p>
 
-Key Deliverables:
+  <hr>
 
-TASK 2 P1_1.xlsx: Contains pivot tables for multidimensional financial insights.
+  <h2>🎯 Objective</h2>
+  <p>The objective was to build in-demand analytical competencies and showcase the ability to extract meaningful insights using tools widely adopted in the industry.</p>
 
-Task 2 P1_2.xlsx: An Excel dashboard summarizing KPIs and trends.
+  <hr>
 
-Tasks Completed:
+  <h2>📂 Contents</h2>
 
-Cleaned and structured raw data
+  <h3>🟩 Problem Statement 1: Excel-Based Financial Analysis</h3>
+  <p>We were provided with a financial dataset in Excel format. The goal was to analyze, visualize, and summarize key metrics.</p>
 
-Created interactive pivot tables
+  <strong>Key Deliverables:</strong>
+  <ul>
+    <li><code>TASK 2 P1_1.xlsx</code>: Contains pivot tables for multidimensional financial insights.</li>
+    <li><code>Task 2 P1_2.xlsx</code>: An Excel dashboard summarizing KPIs and trends.</li>
+  </ul>
 
-Designed a visually engaging dashboard for quick business insights
+  <strong>Tasks Completed:</strong>
+  <ul>
+    <li>Cleaned and structured raw data</li>
+    <li>Created interactive pivot tables</li>
+    <li>Designed a visually engaging dashboard for quick business insights</li>
+  </ul>
 
-🏏 Problem Statement 2: SQL-Based IPL Sports Analytics
-We worked on two IPL-related datasets:
+  <h3>🏏 Problem Statement 2: SQL-Based IPL Sports Analytics</h3>
+  <p>We worked on two IPL-related datasets:</p>
+  <ul>
+    <li><code>IPL_matches.csv</code>: Match-level information</li>
+    <li><code>IPL_Ball.csv</code>: Ball-by-ball delivery data</li>
+  </ul>
 
-IPL_matches.csv: Match-level information
+  <strong>Key Activities:</strong>
+  <ul>
+    <li>Imported datasets into a relational SQL schema (<code>matches</code> and <code>deliveries</code> tables)</li>
+    <li>Performed data cleaning and integrity checks</li>
+    <li>Wrote and executed SQL queries to extract insights on:
+      <ul>
+        <li>Player and team performance</li>
+        <li>Match outcomes and patterns</li>
+        <li>City and venue statistics</li>
+      </ul>
+    </li>
+  </ul>
 
-IPL_Ball.csv: Ball-by-ball delivery data
+  <strong>Sample SQL Tasks:</strong>
+  <ul>
+    <li>Match results with large victory margins</li>
+    <li>Tied matches and chronological analysis</li>
+    <li>Count of unique host cities</li>
+    <li>Joins across <code>matches</code> and <code>deliveries</code> for performance metrics</li>
+  </ul>
 
-Key Activities:
+  <p>SQL query file and schema definition available in <code>Task 2 SQL.pdf</code>.</p>
 
-Imported datasets into a relational SQL schema (matches and deliveries tables)
+  <hr>
 
-Performed data cleaning and integrity checks
+  <h2>🧠 Skills Gained</h2>
+  <ul>
+    <li>Data Cleaning and Preprocessing</li>
+    <li>Pivot Table & Dashboard Design (Excel)</li>
+    <li>SQL Query Writing & Optimization</li>
+    <li>Sports Analytics (IPL Dataset)</li>
+    <li>Business Intelligence & Visualization</li>
+  </ul>
 
-Wrote and executed SQL queries to extract insights on:
+  <hr>
 
-Player and team performance
+  <h2>🛠️ Tools Used</h2>
+  <ul>
+    <li>Microsoft Excel</li>
+    <li>MySQL (Workbench)</li>
+    <li>SQL (DDL, DML, Joins, Aggregates, Filters)</li>
+  </ul>
 
-Match outcomes and patterns
+  <hr>
 
-City and venue statistics
+  <p>Feel free to explore the datasets, queries, and dashboards in this repository to understand how analytical thinking can be applied to real-world business and sports scenarios.</p>
 
-Sample SQL Tasks:
-
-Match results with large victory margins
-
-Tied matches and chronological analysis
-
-Count of unique host cities
-
-Joins across matches and deliveries for performance metrics
-
-You can find query snapshots and schema structure in Task 2 SQL.pdf.
-
-🧠 Skills Gained
-Data Cleaning and Preprocessing
-
-Pivot Table & Dashboard Design (Excel)
-
-SQL Query Writing & Optimization
-
-Sports Analytics (IPL Dataset)
-
-Business Intelligence & Visualization
-
-🛠️ Tools Used
-Microsoft Excel
-
-MySQL (Workbench)
-
-SQL (DDL, DML, Joins, Aggregates, Filters)
-
-Feel free to explore the datasets, queries, and dashboards in this repository to understand how analytical thinking can be applied to real-world business and sports scenarios.
+</body>
+</html>
